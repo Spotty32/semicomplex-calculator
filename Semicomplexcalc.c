@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() 
+void main() 
 {
     char operation, status = 1;
     double number1, number2, special1, special2;
@@ -97,6 +97,4 @@ int main()
             break;
         }
     }
-
-    return 0;
 }
