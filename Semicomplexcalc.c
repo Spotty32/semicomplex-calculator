@@ -3,12 +3,12 @@
 
 void main() 
 {
-    char operation, status = 1;
+    char operation;
     double number1, number2, special1, special2;
 
     printf("Welcome to my Semi-Complex Overcomplicated Calculator in C!\nThis is my first project in C, I hope you'll enjoy it.\nMade by Spotty32, https://github.com/Spotty32\nVersion: 1.0\n\n");
 
-    while (status == 1)
+    while (1 == 1)
     {
         printf("Please enter the first number: ");
         scanf("%lf", &number1);
@@ -93,7 +93,6 @@ void main()
             break;
 
         default:
-            status = 0;
             break;
         }
     }
