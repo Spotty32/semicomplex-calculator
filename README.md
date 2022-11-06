@@ -1,4 +1,7 @@
 # semicomplex-calculator
+
+Release name: "scoc"
+
 A Console based calculator able to calculate more advanced equations like sin, cos, tan, log, sqrt but also basic ones like -, +, *, /
 
 During my testing no issues were found, If I do find any major issue, I'll update the code with the newer version
