@@ -9,6 +9,6 @@ Made by Spotty32
 
 I'm currently studying Information Technology
 
-Completely free to use, but you'll need to build the app yourself
+Completely free to use, all updated versions will be available
 
 Hope you'll enjoy it? maybe?...
