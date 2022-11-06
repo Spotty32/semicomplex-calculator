@@ -1,5 +1,7 @@
 # semicomplex-calculator
-A Calculator able to calculate more advanced equations like sin, cos, tan, log, sqrt but also basic ones like -, +, *, /
+A Console based calculator able to calculate more advanced equations like sin, cos, tan, log, sqrt but also basic ones like -, +, *, /
+
+During my testing no issues were found, If I do find any major issue, I'll update the code with the newer version
 
 This is my first ever commit on GitHub and also my first ever project in C.
 
